@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliTigui
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning kotlin / flutter
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alitighiouart2001@gmail.com
 

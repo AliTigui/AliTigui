@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @AliTigui
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Ali
+- 👀 I’m interested in :
+     * problem solving
+     * finding perpose in life
+     * math physics
+     * control engineering 
+- 🌱 I’m currently learning **Ai for image processing**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alitighiouart2001@gmail.com
 

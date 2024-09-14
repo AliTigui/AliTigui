@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ali
+- 👋 Hi, I’m ...
 - 👀 I’m interested in :
      * problem solving
      * finding perpose in life
